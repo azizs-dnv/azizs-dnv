@@ -3,7 +3,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=azizs-dnv.profile)
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azizs_dnv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azizsadonov996@gmail.com) 
 
 # 💻 Tech Stack:
