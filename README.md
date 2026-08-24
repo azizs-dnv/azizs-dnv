@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my projects TripTJ, Smart-Scholl-Manager and QuizApp<br><br>👯 I’m looking to collaborate on C# backend tools, embedded systems, and Linux automation<br><br>🤝 I’m looking for help with How to develop my own OS and a full-fledged AI<br><br>🌱 I’m currently learning Mobile and desktop development, driver development<br><br>💬 Ask me about Fedora Workstation, flashing custom ROMs/Recovery and Python programming language. <br><br>⚡️ Fun fact I have two laptops: one runs on Windows 11 and the other runs on Linux Fedora.
 
+<svg xmlns="http://www.w3.org/2000/svg" width="131.75" height="28" role="img" aria-label="VISITORS: 254"><title>VISITORS: 254</title><g shape-rendering="crispEdges"><rect width="83" height="28" fill="#555"/><rect x="83" width="48.75" height="28" fill="#26a641"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="415" y="175" textLength="590" fill="#fff">VISITORS</text><text transform="scale(.1)" x="1073.75" y="175" textLength="247.5" fill="#fff" font-weight="bold">254</text></g></svg>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azizs10_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azizsadonov996@gmail.com) 
